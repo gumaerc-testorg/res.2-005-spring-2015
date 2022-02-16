@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Build and Test a Wearable Circuit
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Firewalker LED Sneakers
 uid: 2fb42258-1b94-f9bb-2bac-01fe2d55616f

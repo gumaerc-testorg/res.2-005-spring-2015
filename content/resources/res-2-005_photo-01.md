@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/8576c65e4e9d062b8b0504257e556e28_RES-2-005_photo-01.jpg
+file: /media/courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/8576c65e4e9d062b8b0504257e556e28_RES-2-005_photo-01.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Inspiration for the Workshop
+parent_type: CourseSection
 resourcetype: Image
 title: RES-2-005_photo-01.jpg
 uid: 8576c65e-4e9d-062b-8b05-04257e556e28

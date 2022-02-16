@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Introduction to Engineering & its Applications
 uid: b5f263d4-ba85-f452-d269-22db237001f2
 ---

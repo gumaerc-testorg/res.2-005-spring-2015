@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 93633c3e-763e-0e99-1be7-a7388bafdbb7
 title: Advice for Educators
 uid: 2da070a8-5dad-718a-d6b7-2e08bffc76ab

@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 93633c3e-763e-0e99-1be7-a7388bafdbb7
 ---
@@ -51,28 +53,6 @@ None
 
 *   December 2015
 *   Spring 2016
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Girls standing in a circle in a large room with tables pushed to the walls. Girls are not wearing shoes, and several girls are running through the center of the circle in an icebreaker activity.]({{< resource_file e008ab1e-0423-e38c-4d9e-113ba7c7302d >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Workshop Sessions
-    
-    Workshop sessions were held at MIT Lincoln Laboratory. The workshop space was large enough to accommodate icebreaker activities. Participants also had access to laptops equipped with the software needed to code in Arduino.
-    
-*   ![Twenty girls stand near a wooden table. Several items printed with a 3D printer lay on the table. A scientist stands behind the table and gestures toward the items.]({{< resource_file 082c2a77-e938-74a1-6c2c-4fcc2ff93864 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Lab Tour
-    
-    Participants toured the Tech Innovation Lab as part of the workshop.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

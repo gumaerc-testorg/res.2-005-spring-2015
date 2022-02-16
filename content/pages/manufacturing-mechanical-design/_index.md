@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Manufacturing & Mechanical Design
 uid: 9d919b61-decd-f95f-4108-ded3bef6c4dc
 ---

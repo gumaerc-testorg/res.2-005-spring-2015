@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 93633c3e-763e-0e99-1be7-a7388bafdbb7
 title: Preparing Volunteers
 uid: 1f493c87-0fc8-2e0e-70a8-7df3f3a9f17a

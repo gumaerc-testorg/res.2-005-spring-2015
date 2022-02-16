@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 93633c3e-763e-0e99-1be7-a7388bafdbb7
 title: Framing Engineering as Problem Solving
 uid: 1bfb99c6-08a6-fb3b-5087-201cd73059c9

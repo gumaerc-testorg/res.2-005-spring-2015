@@ -1,10 +1,12 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Image Gallery
 uid: 31be0b31-a028-1436-f17f-4178e2dafd4c
 ---
 
-{{< image-gallery id="31be0b31-a028-1436-f17f-4178e2dafd4c_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/" >}}
+{{< image-gallery id="31be0b31-a028-1436-f17f-4178e2dafd4c_nanogallery2" baseUrl="/courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/" >}}
 {{< image-gallery-item href="421516494150ff096b974c8f16c0086e_504693-01D.jpg" data-ngdesc="Kristen Railey leads the introduction to Make your own wearables by discussing the definition of engineering." text="Kristen Railey leads the introduction to Make your own wearables by discussing the definition of engineering." >}}
 {{< image-gallery-item href="2f4c120fa4412a20e41bdbc0c45b2b61_504693-02D.jpg" data-ngdesc="Kristen Railey leads an exercise that breaks down gender stereotypes of engineers." text="Kristen Railey leads an exercise that breaks down gender stereotypes of engineers." >}}
 {{< image-gallery-item href="f27ffb9df43c35649cc182177cedd6b0_504693-03D.jpg" data-ngdesc="Katy Olesnavge presents the engineering design process through an example of building prosthetic feet." text="Katy Olesnavge presents the engineering design process through an example of building prosthetic feet." >}}

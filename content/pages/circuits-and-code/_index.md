@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Circuits and Code
 uid: 702bfcbb-df40-1ecd-ff94-3eaa6807cb80
 ---

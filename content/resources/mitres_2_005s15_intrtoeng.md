@@ -2,8 +2,12 @@
 content_type: resource
 description: This is a resource file that contains information regarding what is an
   engineer?
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/7f337397e9aff434c489fdd7c4c58bf4_MITRES_2_005S15_IntrtoEng.pdf
+file: /media/courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/7f337397e9aff434c489fdd7c4c58bf4_MITRES_2_005S15_IntrtoEng.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Introduction to Engineering & its Applications
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: What is an Engineer?
 uid: 7f337397-e9af-f434-c489-fdd7c4c58bf4

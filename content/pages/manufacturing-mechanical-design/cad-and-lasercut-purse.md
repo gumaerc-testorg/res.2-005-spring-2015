@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Manufacturing & Mechanical Design
+parent_type: SupplementalResourceSection
 parent_uid: 9d919b61-decd-f95f-4108-ded3bef6c4dc
 title: CAD and Lasercut Purse
 uid: 92d5b5f8-94f6-44a9-c23b-844e1426fda0

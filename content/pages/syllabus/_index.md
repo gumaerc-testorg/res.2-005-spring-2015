@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Syllabus
 uid: 29231ee4-58ee-f9e6-f7e1-2bbfdf131b0f
 ---
@@ -20,7 +22,7 @@ Its mission is to introduce high-school girls to what engineering is, how it is 
 
 ### What will participants do?
 
-High-school girls will spend the day learning the design process, 3D computer modeling, how to write code, and how to build a circuit. Participants tour a rapid prototyping machine shop and see how 3D printed jewelry and laser-cut purses are created. They will design a bracelet using [SolidWorks®](https://www.solidworks.com/sw/education/student-software-3d-mcad.htm) and code a [FLORA](https://www.adafruit.com/products/659) in Arduino for a wearable circuit with pressure sensor and LEDs.
+High-school girls will spend the day learning the design process, 3D computer modeling, how to write code, and how to build a circuit. Participants tour a rapid prototyping machine shop and see how 3D printed jewelry and laser-cut purses are created. They will design a bracelet using [SolidWorks{{< sup "®" >}}](https://www.solidworks.com/sw/education/student-software-3d-mcad.htm) and code a [FLORA](https://www.adafruit.com/products/659) in Arduino for a wearable circuit with pressure sensor and LEDs.
 
 Grading
 -------

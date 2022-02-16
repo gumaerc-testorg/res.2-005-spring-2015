@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Circuits and Code
+parent_type: SupplementalResourceSection
 parent_uid: 702bfcbb-df40-1ecd-ff94-3eaa6807cb80
 title: Build and Test a Wearable Circuit
 uid: b0e2f533-4fbb-3242-82d1-68267e602980

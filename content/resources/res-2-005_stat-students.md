@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/8cce48f2321f163cc3f1a31f5dc853bb_RES-2-005_stat-students.png
+file: /media/courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/8cce48f2321f163cc3f1a31f5dc853bb_RES-2-005_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: RES-2-005_stat-students.png
 uid: 8cce48f2-321f-163c-c3f1-a31f5dc853bb

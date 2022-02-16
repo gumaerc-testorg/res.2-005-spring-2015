@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Syllabus
+parent_type: SupplementalResourceSection
 parent_uid: 29231ee4-58ee-f9e6-f7e1-2bbfdf131b0f
 title: Workshop Schedule
 uid: ee7a411e-5754-64ae-8fb6-704e38f60bcf
@@ -56,7 +59,7 @@ Mechanical design lecture with keynote speaker [Katy Olesnavage](http://video.mi
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 10 AM to 11 AM
 {{< tdclose >}}
 {{< tdopen >}}
@@ -71,7 +74,7 @@ Group 2: Tech Innovation Lab Tour
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11 AM to 12 PM
 {{< tdclose >}}
 {{< tdopen >}}
