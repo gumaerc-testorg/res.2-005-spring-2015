@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains advice and files for educators and instructors
+  about how to host their own wearables workshop.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Host Your Own Workshop
@@ -14,23 +16,23 @@ These materials were used to plan the workshop in Fall 2014.
 Budget
 ------
 
-[Budget (XLS)]({{< baseurl >}}/resources/mitres_2_005s15_budget)
+{{% resource_link 729c1297-cd9a-1d66-8606-f0573fa561dd "Budget (XLS)" %}}
 
 Promotion
 ---------
 
-[Workshop Flyer (PDF)]({{< baseurl >}}/resources/mitres_2_005s15_wear)
+{{% resource_link 0b776509-ed25-d780-5783-7ff726e2712e "Workshop Flyer (PDF)" %}}
 
 Volunteers
 ----------
 
-[Volunteer Preparation (PDF)]({{< baseurl >}}/resources/mitres_2_005s15_prep)
+{{% resource_link decfb1f1-6e1d-f34e-c809-28372f9a4ea8 "Volunteer Preparation (PDF)" %}}
 
-[Volunteer Roles (PDF)]({{< baseurl >}}/resources/mitres_2_005s15_vol)
+{{% resource_link 4e219d0e-55a0-c8d7-9deb-5c75dfd5e1a7 "Volunteer Roles (PDF)" %}}
 
-[Volunteer Task List (XLS)]({{< baseurl >}}/resources/mitres_2_005s15_task_list)
+{{% resource_link 179c5c4f-5dc0-7245-c03f-94ab096e9a13 "Volunteer Task List (XLS)" %}}
 
 Reflections
 -----------
 
-[Participant Feedback (PDF)]({{< baseurl >}}/resources/mitres_2_005s15_feed)
+{{% resource_link 39faa72f-5c19-04fd-8079-a65dbfd863f8 "Participant Feedback (PDF)" %}}

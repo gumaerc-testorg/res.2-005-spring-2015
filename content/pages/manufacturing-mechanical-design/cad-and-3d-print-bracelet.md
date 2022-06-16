@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains materials and instructions for the workshop activity
+  about computer aided design (CAD) and 3D printing a bracelet.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Manufacturing & Mechanical Design
@@ -24,20 +26,20 @@ Materials
 Tutorial
 --------
 
-*   [Bracelet (PDF - 3.0MB)]({{< baseurl >}}/resources/mitres_2_005s15_bracelet)
+*   {{% resource_link bcbc3d1f-2232-6fb3-d47c-270b857aeb95 "Bracelet (PDF - 3.0MB)" %}}
 
 Files
 -----
 
-[Bracelet (.SLDPRT)]({{< baseurl >}}/resources/bracelet)
+{{% resource_link 2f4a23b3-16a9-55b2-f339-3624bcaaf077 "Bracelet (.SLDPRT)" %}}
 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![10572082_697788026980083_36.jpg]({{< resource_file 73db4ce3-a7a6-e390-1bd1-c65acba96322 >}})
+{{< resource 73db4ce3-a7a6-e390-1bd1-c65acba96322 >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![10704043_700513933374159_44.jpg]({{< resource_file 4df84bb1-ab3b-d26e-7b2f-6a36d33b2206 >}})
+{{< resource 4df84bb1-ab3b-d26e-7b2f-6a36d33b2206 >}}
 {{< tdclose >}}
 
 {{< trclose >}}

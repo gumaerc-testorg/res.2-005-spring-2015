@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains an overview of the topic Computer Programming and
+  files related to the lectures and activities.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Circuits and Code
@@ -17,21 +19,21 @@ Students are introduced to computer programming by writing Arduino code for a we
 Tutorials
 ---------
 
-[Instructions for LED Firewalker Code (PDF)]({{< baseurl >}}/resources/mitres_2_005s15_code-1)
+{{% resource_link e70a44fb-a5aa-1ac7-86c1-6e99e44eb770 "Instructions for LED Firewalker Code (PDF)" %}}
 
-[Fill in the Blank Wearable Circuit Code (PDF)]({{< baseurl >}}/resources/mitres_2_005s15_handout)  
-[Word Bank for the Fill in the Blank Wearable Circuit Code (PDF)]({{< baseurl >}}/resources/mitres_2_005s15_fire0731)  
-[Answer Key for the Fill in the Blank Wearable Circuit Code (PDF)]({{< baseurl >}}/resources/mitres_2_005s15_answerkey)
+{{% resource_link 5a823f3d-faa8-1536-e003-6c85852514bf "Fill in the Blank Wearable Circuit Code (PDF)" %}}  
+{{% resource_link 4bbef5b4-7f56-9175-eb3f-379d17336658 "Word Bank for the Fill in the Blank Wearable Circuit Code (PDF)" %}}  
+{{% resource_link 6cad5933-534f-d60f-96d7-90ac2537f8f1 "Answer Key for the Fill in the Blank Wearable Circuit Code (PDF)" %}}
 
-[Pressure Sensor Test (PDF)]({{< baseurl >}}/resources/mitres_2_005s15_pressure)
+{{% resource_link 8a9fbfe4-af3b-0bb7-eab1-445f2c6e04cf "Pressure Sensor Test (PDF)" %}}
 
 **Codes**
 ---------
 
-[Tips for LED Firewalker Code (PDF)]({{< baseurl >}}/resources/mitres_2_005s15_fire)
+{{% resource_link 29e02fea-86c8-9fe8-e6df-ece298ff757c "Tips for LED Firewalker Code (PDF)" %}}
 
-[Firewalker Demo (ZIP)]({{< baseurl >}}/resources/firewalkerdemo-master) (This file contains: 2 .ino files, 1 .gitignore file, 1 .cpp file, 1 .h file, and 1 .md file.)
+{{% resource_link 61563c20-fe7f-1eef-ec0c-37b4e2650084 "Firewalker Demo (ZIP)" %}} (This file contains: 2 .ino files, 1 .gitignore file, 1 .cpp file, 1 .h file, and 1 .md file.)
 
-[Firewalker Library (Master) (ZIP)]({{< baseurl >}}/resources/firewalkerlib-master) (This file contains: 2 .ino file, 1 .gitignore file, 1 .cpp file, 1 .h file, and 1 .md file)
+{{% resource_link 82ed5e01-9350-ac85-79ba-33f2c8a62241 "Firewalker Library (Master) (ZIP)" %}} (This file contains: 2 .ino file, 1 .gitignore file, 1 .cpp file, 1 .h file, and 1 .md file)
 
-[Firewalker Demo (Master) (ZIP)]({{< baseurl >}}/resources/firewalkerdemo-master) (This file contains: 1 .ino file and 1 .md file)
+{{% resource_link 61563c20-fe7f-1eef-ec0c-37b4e2650084 "Firewalker Demo (Master) (ZIP)" %}} (This file contains: 1 .ino file and 1 .md file)

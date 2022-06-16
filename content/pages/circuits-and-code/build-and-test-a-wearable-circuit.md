@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains materials and instructions for the workshop activity
+  about building and testing a wearable circuit i.e. light up shoes.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Circuits and Code

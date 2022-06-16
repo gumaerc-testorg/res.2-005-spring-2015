@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists the schedule of the seven-hour workshop.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Syllabus

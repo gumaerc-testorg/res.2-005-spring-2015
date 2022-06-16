@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains materials and instructions for the workshop activity
+  about lasercutting a purse.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Manufacturing & Mechanical Design
@@ -24,4 +26,4 @@ Materials
 
 The tutorial and file for this activity are not available.
 
-![10431714_709608725798013_78.jpg]({{< resource_file 65defcb0-ca85-6096-a208-a6e7ede343bd >}})
+{{< resource 65defcb0-ca85-6096-a208-a6e7ede343bd >}}

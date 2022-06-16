@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains an overview of the topic Introduction to Engineering
+  and Its Application and files related to the lectures.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Introduction to Engineering & its Applications
@@ -19,26 +21,26 @@ Discover what engineering is, how to apply it, and to gain engineering skills.
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![A woman holds a microphone and gives a lecture with a slide show.]({{< resource_file 86a90710-ec14-eee4-92a7-58f73a3d887d >}})
+{{< resource 86a90710-ec14-eee4-92a7-58f73a3d887d >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![A woman holds a 3D printed object up to the camera.]({{< resource_file 0e69868c-d07f-c89f-a42e-4ea8576cdc7d >}})
+{{< resource 0e69868c-d07f-c89f-a42e-4ea8576cdc7d >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![A girl is holding a boot with wires on it. An adult volunteer is helping her.]({{< resource_file fb765c1b-27ae-1abf-b195-21a2f22916fb >}})
+{{< resource fb765c1b-27ae-1abf-b195-21a2f22916fb >}}
 {{< tdclose >}}
 {{< tdopen >}}
-![Several girls and women are looking at a computer.]({{< resource_file f020a65e-e87f-dd2a-0aa8-a5ae32857a2f >}})
+{{< resource f020a65e-e87f-dd2a-0aa8-a5ae32857a2f >}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-You can see more photographs from the workshop in the [Image Gallery]({{< baseurl >}}/pages/image-gallery).
+You can see more photographs from the workshop in the {{% resource_link 31be0b31-a028-1436-f17f-4178e2dafd4c "Image Gallery" %}}.
 
 Lecture
 -------
 
-[Lecture: What is an Engineer? (PDF - 1.6MB)]({{< baseurl >}}/resources/mitres_2_005s15_intrtoeng)  
-[Facilitator Notes: What is an Engineer? (PDF)]({{< baseurl >}}/resources/mitres_2_005s15_speaker)
+{{% resource_link 7f337397-e9af-f434-c489-fdd7c4c58bf4 "Lecture: What is an Engineer? (PDF - 1.6MB)" %}}  
+{{% resource_link 910701c9-74ec-81bf-ce22-d774c3e1f11d "Facilitator Notes: What is an Engineer? (PDF)" %}}

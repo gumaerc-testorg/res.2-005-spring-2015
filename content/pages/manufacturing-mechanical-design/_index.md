@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains an overview of the topic Manufacturing and Mechanical
+  Design and files related to the lectures and activities.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Manufacturing & Mechanical Design
@@ -14,14 +16,14 @@ Students are introduced to the design process of engineering, from ideation to d
 Lectures
 --------
 
-[Lecture 1: Introduction to Manufacturing (PDF - 1.3MB)]({{< baseurl >}}/resources/mitres_2_005s15_intro0801)  
-[Speaker Notes: Introduction to Manufacturing (PDF)]({{< baseurl >}}/resources/mitres_2_005s15_intspeaker)
+{{% resource_link 979cae18-75e3-201f-8e52-8346c4b04f93 "Lecture 1: Introduction to Manufacturing (PDF - 1.3MB)" %}}  
+{{% resource_link a3cae0ef-d69a-3dee-7962-6d820d4c960a "Speaker Notes: Introduction to Manufacturing (PDF)" %}}
 
 Lecture 2: Design Process Example (Keynote Speaker: [Katy Olesnavage](http://video.mit.edu/watch/katy-olesnavage-designing-the-next-generation-prosthesis-26034/))  
 Slides from this lecture are not available.
 
-[Lecture 3: Computer Aided Design (CAD) (PDF)]({{< baseurl >}}/resources/mitres_2_005s15_intrcad)  
-[Speaker Notes: Computer Aided Design (CAD) (PDF)]({{< baseurl >}}/resources/mitres_2_005s15_cadspea)
+{{% resource_link 72ed33ab-1419-8492-a5ae-c39bb4672837 "Lecture 3: Computer Aided Design (CAD) (PDF)" %}}  
+{{% resource_link fccf1ca9-5fb7-c406-fb84-212a45d48dce "Speaker Notes: Computer Aided Design (CAD) (PDF)" %}}
 
 Lecture 4: Machine Shop Tools  
 There are no slides for this lecture.
@@ -29,6 +31,6 @@ There are no slides for this lecture.
 Activities
 ----------
 
-[Activity 1: CAD and 3D Print Bracelet]({{< baseurl >}}/pages/manufacturing-mechanical-design/cad-and-3d-print-bracelet)
+{{% resource_link edea5924-f3ed-6730-a8e8-b5fd50ce3eb2 "Activity 1: CAD and 3D Print Bracelet" %}}
 
-[Activity 2: Lasercut Purse]({{< baseurl >}}/pages/manufacturing-mechanical-design/cad-and-lasercut-purse)
+{{% resource_link 92d5b5f8-94f6-44a9-c23b-844e1426fda0 "Activity 2: Lasercut Purse" %}}
