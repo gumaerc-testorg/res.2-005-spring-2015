@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: ''
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,12 +11,7 @@ parent_uid: 93633c3e-763e-0e99-1be7-a7388bafdbb7
 title: Preparing Volunteers
 uid: 1f493c87-0fc8-2e0e-70a8-7df3f3a9f17a
 ---
-
-_In this section, Kristen Railey shares her insights about preparing volunteers to support participants, including changes she’d like to make in future iterations of the workshop._
-
-![Three women working together on a laptop computer.]({{< resource_file d2415059-552d-ce1b-f2b8-01af22cbc083 >}})
-
-A volunteer assists participants. Image courtesy of Jon Barron, MIT Lincoln Laboratory.
+*In this section, Kristen Railey shares her insights about preparing volunteers to support participants, including changes she’d like to make in future iterations of the workshop.*
 
 I held office hours the week before the workshop to prepare the volunteers to support participants. I brought in the workshop kits and had the volunteers test the projects themselves. The SolidWorks project was very straightforward for the volunteers. However, the coding was tricky, because we had issues with the software. You have to install a driver on a computer to use the Arduino board and I didn’t have the laptops ready for the volunteers. I didn’t realize how difficult it would be to get the software on 20 computers.
 
