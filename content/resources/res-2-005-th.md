@@ -10,10 +10,10 @@ image_metadata:
   credit: Photograph courtesy of Jon Barron, MIT Lincoln Laboratory.
   image-alt: A girl holds up a boot that she is adding lights to.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-2-005-th.jpg
 uid: 0330290d-8f3c-0230-be89-5fd8d5129bd5
 ---
 Girls programmed their own light-up shoes as part of the Girls Who Build workshop. Photograph courtesy of Jon Barron, MIT Lincoln Laboratory.
-
