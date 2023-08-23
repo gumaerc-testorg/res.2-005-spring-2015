@@ -2,7 +2,7 @@
   "term": "Spring",
   "year": "2015",
   "level": [
-    "Non Credit"
+    "High School"
   ],
   "topics": [
     [
@@ -57,6 +57,6 @@
     "Instructor Insights"
   ],
   "site_uid": "36459d42-ff88-4801-bf2e-d7c03e6e1997",
-  "short_id": "res.2-005-spring-2015",
+  "site_short_id": "res.2-005-spring-2015",
   "title": "Course Metadata"
 }
