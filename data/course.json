@@ -2,7 +2,7 @@
   "term": "Spring",
   "year": "2015",
   "level": [
-    "Non Credit"
+    "High School"
   ],
   "topics": [
     [
@@ -39,9 +39,9 @@
     "website": "res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015"
   },
   "course_title": "Girls Who Build: Make Your Own Wearables Workshop",
-  "course_description": "The Girls Who Build: Make Your Own Wearables workshop for high school girls is an introduction to computer science, electrical and mechanical engineering through wearable technology. The workshop, developed by MIT Lincoln Laboratory, consists of two major hands-on projects in manufacturing and wearable electronics. These include 3D printing jewelry and laser cutting a purse, as well as programming LEDs to light up when walking. Participants learn the design process, 3D computer modeling, and machine shop tools, in addition to writing code and building a circuit.\n",
+  "course_description": "The Girls Who Build: Make Your Own Wearables workshop for high school girls is an introduction to computer science, electrical and mechanical engineering through wearable technology. The workshop, developed by MIT Lincoln Laboratory, consists of two major hands-on projects in manufacturing and wearable electronics. These include 3D printing jewelry and laser cutting a purse, as well as programming LEDs to light up when walking. Participants learn the design process, 3D computer modeling, and machine shop tools, in addition to writing code and building a circuit.",
   "department_numbers": [
-    "RES"
+    "2"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "RES.2-005",
@@ -53,8 +53,10 @@
     "Image Gallery",
     "Tutorial Videos",
     "Activity Assignments",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Instructor Insights"
   ],
-  "site_uid": "75aae8a9-c3bb-47c7-8fb4-2410ddcdfc1a",
+  "site_uid": "36459d42-ff88-4801-bf2e-d7c03e6e1997",
+  "site_short_id": "res.2-005-spring-2015",
   "title": "Course Metadata"
 }
