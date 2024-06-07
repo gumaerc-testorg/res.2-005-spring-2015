@@ -3,6 +3,7 @@ content_type: resource
 description: This is a special file that contains information regarding fire walker
   demo.
 file: /courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/61563c20fe7f1eefec0c37b4e2650084_firewalkerdemo-master.zip
+file_size: 2632
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

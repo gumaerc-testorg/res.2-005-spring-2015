@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding what is an
   engineer?
 file: /courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/910701c974ec81bfce22d774c3e1f11d_MITRES_2_005S15_Speaker.pdf
+file_size: 113318
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
