@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding firewalker
   codes.
 file: /courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/29e02fea86c89fe8e6dfece298ff757c_MITRES_2_005S15_Fire.pdf
+file_size: 135212
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

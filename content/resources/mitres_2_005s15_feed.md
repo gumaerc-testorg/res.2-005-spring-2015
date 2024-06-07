@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding feedback
   from the pilot workshop.
 file: /courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/39faa72f5c1904fd8079a65dbfd863f8_MITRES_2_005S15_Feed.pdf
+file_size: 173490
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

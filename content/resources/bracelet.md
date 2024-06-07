@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding bracelet.
 file: /courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/2f4a23b316a955b2f3393624bcaaf077_bracelet.SLDPRT
+file_size: 819712
 file_type: application/msword
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
