@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/0543f3b8c23432564a12816cc2ffe082_RES-2-005_photo-78.jpg
+file_size: 92785
 file_type: image/jpeg
 image_metadata:
   caption: ''

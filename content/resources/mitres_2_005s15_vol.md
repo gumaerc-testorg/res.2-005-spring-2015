@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding volunteer
   roles.
 file: /courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/4e219d0e55a0c8d79deb5c75dfd5e1a7_MITRES_2_005S15_Vol.pdf
+file_size: 257711
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
