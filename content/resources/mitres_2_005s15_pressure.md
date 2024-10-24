@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding pressure sensor test.
-file: /courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/8a9fbfe4af3b0bb7eab1445f2c6e04cf_MITRES_2_005S15_Pressure.pdf
+file: /ol-ocw-studio-app/courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/8a9fbfe4af3b0bb7eab1445f2c6e04cf_MITRES_2_005S15_Pressure.pdf
 file_size: 596681
 file_type: application/pdf
 learning_resource_types: []
