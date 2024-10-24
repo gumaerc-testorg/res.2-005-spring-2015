@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/d2415059552dce1bf2b801af22cbc083_RES-2-005_photo-31.jpg
+file: /ol-ocw-studio-app/courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/d2415059552dce1bf2b801af22cbc083_RES-2-005_photo-31.jpg
 file_size: 97056
 file_type: image/jpeg
 image_metadata:

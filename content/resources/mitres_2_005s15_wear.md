@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding workshop
   flyer.
-file: /courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/0b776509ed25d78057837ff726e2712e_MITRES_2_005S15_Wear.pdf
+file: /ol-ocw-studio-app/courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/0b776509ed25d78057837ff726e2712e_MITRES_2_005S15_Wear.pdf
 file_size: 438327
 file_type: application/pdf
 learning_resource_types: []
