@@ -2,7 +2,7 @@
 content_type: resource
 description: Girls programmed their own light-up shoes as part of the Girls Who Build
   workshop. Photograph courtesy of Jon Barron, MIT Lincoln Laboratory.
-file: /ol-ocw-studio-app/courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/0330290d8f3c0230be895fd8d5129bd5_res-2-005-th.jpg
+file: /courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/0330290d8f3c0230be895fd8d5129bd5_res-2-005-th.jpg
 file_size: 11314
 file_type: image/jpeg
 image_metadata:
