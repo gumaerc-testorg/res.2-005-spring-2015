@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/9ebf380db630d0ab20939b4046caf378_MITRES_2_005S15_code.pdf
+file: /courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/9ebf380db630d0ab20939b4046caf378_MITRES_2_005S15_code.pdf
 file_size: 142847
 file_type: application/pdf
 learning_resource_types: []
