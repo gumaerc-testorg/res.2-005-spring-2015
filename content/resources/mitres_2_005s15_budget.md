@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file that contains information regarding budget.
-file: /ol-ocw-studio-app/courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/729c1297cd9a1d668606f0573fa561dd_MITRES_2_005S15_Budget.xls
+file: /courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/729c1297cd9a1d668606f0573fa561dd_MITRES_2_005S15_Budget.xls
 file_size: 64000
 file_type: application/vnd.ms-excel
 learning_resource_types: []
