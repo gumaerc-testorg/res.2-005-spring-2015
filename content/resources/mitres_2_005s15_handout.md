@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding activity 4: fill-in the blank
   wearable circuit code.'
-file: /courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/5a823f3dfaa81536e0036c85852514bf_MITRES_2_005S15_Handout.pdf
+file: /ol-ocw-studio-app/courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/5a823f3dfaa81536e0036c85852514bf_MITRES_2_005S15_Handout.pdf
 file_size: 125162
 file_type: application/pdf
 learning_resource_types: []
