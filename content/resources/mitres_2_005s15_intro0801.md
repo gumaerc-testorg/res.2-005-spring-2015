@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding lecture 1: introduction to
   manufacturing.'
-file: /courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/979cae1875e3201f8e528346c4b04f93_MITRES_2_005S15_Intro0801.pdf
+file: /ol-ocw-studio-app/courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/979cae1875e3201f8e528346c4b04f93_MITRES_2_005S15_Intro0801.pdf
 file_size: 1412443
 file_type: application/pdf
 learning_resource_types: []

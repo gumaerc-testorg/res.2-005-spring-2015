@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding volunteer preparation sessions.
-file: /courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/decfb1f16e1df34ec80928372f9a4ea8_MITRES_2_005S15_Prep.pdf
+file: /ol-ocw-studio-app/courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/decfb1f16e1df34ec80928372f9a4ea8_MITRES_2_005S15_Prep.pdf
 file_size: 329179
 file_type: application/pdf
 learning_resource_types: []
