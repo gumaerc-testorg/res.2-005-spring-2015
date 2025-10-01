@@ -19,7 +19,7 @@ Lectures
 {{% resource_link 979cae18-75e3-201f-8e52-8346c4b04f93 "Lecture 1: Introduction to Manufacturing (PDF - 1.3MB)" %}}  
 {{% resource_link a3cae0ef-d69a-3dee-7962-6d820d4c960a "Speaker Notes: Introduction to Manufacturing (PDF)" %}}
 
-Lecture 2: Design Process Example (Keynote Speaker: [Katy Olesnavage](http://video.mit.edu/watch/katy-olesnavage-designing-the-next-generation-prosthesis-26034/))  
+Lecture 2: Design Process Example (Keynote Speaker: {{% resource_link "e8ed9b41-1541-473e-95ea-452df090bfa0" "Katy Olesnavage" %}})  
 Slides from this lecture are not available.
 
 {{% resource_link 72ed33ab-1419-8492-a5ae-c39bb4672837 "Lecture 3: Computer Aided Design (CAD) (PDF)" %}}  

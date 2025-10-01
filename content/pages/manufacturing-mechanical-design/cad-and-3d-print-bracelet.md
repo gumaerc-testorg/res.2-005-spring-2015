@@ -20,7 +20,7 @@ Materials
 ---------
 
 *   Laptops and Mice
-*   [SolidWorks Student Edition Software](https://www.solidworks.com/sw/education/student-software-3d-mcad.htm)
+*   {{% resource_link "5f691acf-a0d9-4654-961c-7d6a3b549a06" "SolidWorks Student Edition Software" %}}
 *   3D Printer
 
 Tutorial
