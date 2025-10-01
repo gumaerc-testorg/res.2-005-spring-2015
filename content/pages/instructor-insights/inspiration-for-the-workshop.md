@@ -22,4 +22,4 @@ People have different approaches for encouraging girls and women to explore engi
 Some people have said that using wearable technology to engage girls in engineering reinforces gender stereotypes, but I think it speaks to a sub-population of girls that might not otherwise realize their potential as engineers. Personally, as an artist, and I know there are many girls interested in combining art and building. This workshop offers this sub-population of girls an opportunity to explore how their interests and the field of engineering intersect.
 
 Learn more about Kristen Railey and her inspiration for the *Make Your Own Wearables Workshop*:   
-“[MIT Lincoln Laboratory hosts first ‘Make Your Own Wearables’ workshop for high-school girls](http://news.mit.edu/2015/lincoln-laboratory-hosts-first-make-your-own-wearables-workshop-high-school-girls-0114).”
+“{{% resource_link "4979cdb3-47fd-47ec-8812-15149da3d32f" "MIT Lincoln Laboratory hosts first ‘Make Your Own Wearables’ workshop for high-school girls" %}}.”
