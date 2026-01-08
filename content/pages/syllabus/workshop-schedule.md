@@ -55,7 +55,7 @@ Introduction, icebreaker, and overview of the day; "What is engineering?" lectur
 9:30 AM to 10 AM
 {{< tdclose >}}
 {{< tdopen >}}
-Mechanical design lecture with keynote speaker {{% resource_link "e8ed9b41-1541-473e-95ea-452df090bfa0" "Katy Olesnavage" %}} (MIT graduate student)
+Mechanical design lecture with keynote speaker [Katy Olesnavage](http://video.mit.edu/watch/katy-olesnavage-designing-the-next-generation-prosthesis-26034/) (MIT graduate student)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +94,7 @@ Group 1: Tech Innovation Lab Tour
 12 PM to 1 PM
 {{< tdclose >}}
 {{< tdopen >}}
-Lunch and Wearables lecture with keynote speaker Mike Gibson, ({{% resource_link "e66c405a-b0b0-4a17-bbc9-de3e370fa17a" "embr labs" %}})
+Lunch and Wearables lecture with keynote speaker Mike Gibson, ([embr labs](http://www.embrlabs.com/))
 {{< tdclose >}}
 
 {{< trclose >}}

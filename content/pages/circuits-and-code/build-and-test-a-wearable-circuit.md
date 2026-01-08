@@ -18,25 +18,25 @@ Students learn the components of an electrical circuit by building and testing t
 
 {{< resource 2fb42258-1b94-f9bb-2bac-01fe2d55616f >}}
 
-This video is from {{% resource_link "d47fbf52-610e-4235-9486-0827d647b43c" "Adafruit Industries" %}} on YouTube and is not provided under our [Creative Commons license](/terms/#cc).
+This video is from [Adafruit Industries](https://www.youtube.com/channel/UCpOlOeQjj7EsVnDh3zuCgsA) on YouTube and is not provided under our [Creative Commons license](/terms/#cc).
 
 Materials
 ---------
 
-{{% resource_link "cb42d829-4e6f-4304-9220-6d89a1349b67" "Adafruit LED Firewalker Tools & Supplies List" %}}
+[Adafruit LED Firewalker Tools & Supplies List](https://learn.adafruit.com/firewalker-led-sneakers/tools-and-supplies)
 
 Tutorial
 --------
 
-{{% resource_link "b761f9cf-f4e4-47e0-9498-b96ef7d2c9f3" "Adafruit LED Firewalker Instructions" %}}
+[Adafruit LED Firewalker Instructions](https://learn.adafruit.com/firewalker-led-sneakers/overview)
 
 Files and Links
 ---------------
 
-{{% resource_link "b761f9cf-f4e4-47e0-9498-b96ef7d2c9f3" "Adafruit LED Firewalker Instructions" %}}
+[Adafruit LED Firewalker Instructions](https://learn.adafruit.com/firewalker-led-sneakers/overview)
 
-{{% resource_link "cb42d829-4e6f-4304-9220-6d89a1349b67" "Adafruit LED Firewalker Materials List" %}}
+[Adafruit LED Firewalker Materials List](https://learn.adafruit.com/firewalker-led-sneakers/tools-and-supplies)
 
-{{% resource_link "95bfcdb9-cd19-4c25-809f-97440bfdd9f6" "LED Test Code" %}}
+[LED Test Code](https://learn.adafruit.com/firewalker-led-sneakers/circuit-diagram)
 
-{{% resource_link "aefd18b2-ebfb-4ca8-95c0-d4299d1edaee" "Pressure Sensor Test Code" %}}
+[Pressure Sensor Test Code](https://learn.adafruit.com/firewalker-led-sneakers/make-velostat-step-sensors)
