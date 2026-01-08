@@ -22,7 +22,7 @@ Materials
 *   Faux Leather
 *   Laptops and Mice
 *   Lasercutter
-*   {{% resource_link "5f691acf-a0d9-4654-961c-7d6a3b549a06" "SolidWorks Student Edition Software" %}}
+*   [SolidWorks Student Edition Software](https://www.solidworks.com/sw/education/student-software-3d-mcad.htm)
 
 The tutorial and file for this activity are not available.
 

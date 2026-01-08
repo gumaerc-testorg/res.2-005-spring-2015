@@ -22,8 +22,8 @@ The _Make Your Own Wearables_ _Workshop_ introduces high school girls to compute
 - Challenge stereotypes about who engineers are and what they do
 - Gain exposure to the design process
 - Explore 3D computer modeling
-- Design a bracelet using {{% resource_link "5f691acf-a0d9-4654-961c-7d6a3b549a06" "SOLIDWORKS" %}}
-- Code a {{% resource_link "c4ea846a-c845-410b-9d2d-3b1ae78ba1be" "FLORA" %}} in Arduino for a wearable circuit with pressure sensor and LEDs
+- Design a bracelet using [SOLIDWORKS](https://www.solidworks.com/sw/education/student-software-3d-mcad.htm)
+- Code a [FLORA](https://www.adafruit.com/products/659) in Arduino for a wearable circuit with pressure sensor and LEDs
 - Tour a rapid prototyping machine shop
 
 ## Facilitator Interview

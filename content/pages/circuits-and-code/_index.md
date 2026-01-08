@@ -19,7 +19,7 @@ Lectures
 {{% resource_link 74a79a24-b007-60ae-1ec3-77b219fd5f2f "Lecture: Circuits and Code (PDF - 2.8MB)" %}}  
 {{% resource_link 9ebf380d-b630-d0ab-2093-9b4046caf378 "Speaker Notes: Circuits and Code (PDF)" %}}
 
-{{% resource_link b2d91a63-af81-d60b-b6fe-4d9e493578c8 "Keynote Lecture: Creating a Wearable (PDF - 1.8MB)" %}} (Keynote Speaker: Mike Gibson, {{% resource_link "e66c405a-b0b0-4a17-bbc9-de3e370fa17a" "embr labs" %}})
+{{% resource_link b2d91a63-af81-d60b-b6fe-4d9e493578c8 "Keynote Lecture: Creating a Wearable (PDF - 1.8MB)" %}} (Keynote Speaker: Mike Gibson, [embr labs](http://www.embrlabs.com/))
 
 Activity
 --------
